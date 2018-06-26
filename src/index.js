@@ -1,4 +1,4 @@
-import ace from 'brace'; // eslint-disable-line
+import ace from 'rc-brace'; // eslint-disable-line
 import merge from 'lodash/merge';
 import debounce from 'lodash/debounce';
 import DiffMatchPatch from 'diff-match-patch';
